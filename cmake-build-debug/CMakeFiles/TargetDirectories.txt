@@ -1,0 +1,3 @@
+/Users/alexkulbyakov/Desktop/soft/Spline_Interpolation/cmake-build-debug/CMakeFiles/Spline_Interpolation.dir
+/Users/alexkulbyakov/Desktop/soft/Spline_Interpolation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexkulbyakov/Desktop/soft/Spline_Interpolation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
